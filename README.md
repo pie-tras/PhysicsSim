@@ -2,8 +2,9 @@
 
 ## Setup:
 
-1. Activate the virtual enviroment `phys/Scripts/Activate.ps1`
-2. Run program `python simulate.py`
+1. Create virtual enviroment in your workspace `python -m venv physenv`
+2. Activate the virtual enviroment `physenv/Scripts/Activate.ps1`
+3. Run program `python simulate.py`
 
 ## TODO
 
